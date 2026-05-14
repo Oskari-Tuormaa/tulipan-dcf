@@ -1,0 +1,4 @@
+*.egg-info/
+*.ipynb
+/.vscode
+/tulipan_dcf/__pycache__
